@@ -1,0 +1,37 @@
+.foto{
+	background-image: url(../img/home.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+	width: 100%;
+	padding: 30%;
+	margin-top: 0px !important;
+}
+.navbar{
+	margin-bottom: 0px !important;
+}
+.text-center{
+	color:#fff;
+}
+h2{
+	text-align: center;
+}
+.fondo{
+	
+	background: #DBF626;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	padding: 30%;
+
+}
+h1{
+	text-align: center;
+}
+
+footer{
+	background-color:#4497A3;
+	height:40px;
+}
+span{
+	color:#FFFF00;
+}
